@@ -44,6 +44,6 @@ The dataset used is `diabetes.csv`, which contains the following features:
 Clone the repository and install required dependencies:  
 
 ```bash
-git clone https://github.com/your-username/svm-diabetes-detector.git
-cd svm-diabetes-detector
+git clone https://github.com/vedachari/Diabetes_SVM.git
+cd Diabetes_SVM
 pip install -r requirements.txt
